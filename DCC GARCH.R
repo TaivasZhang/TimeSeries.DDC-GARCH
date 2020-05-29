@@ -8,12 +8,12 @@ library(quantmod)
 library(DataCombine)
 library(PerformanceAnalytics)
 
-crude_oil = "C:/Users/tiavas/Dropbox/MSCA/Time\ Series/Project/Oil\ Price\ weekly.csv"
-#crude_oil = "/Users/tiavas/Dropbox/MSCA/Time\ Series/Project/Oil\ Price\ weekly.csv"
+crude_oil = "Oil Price weekly.csv"
+
 data <- read.csv(crude_oil)
 names(data)
 
-data$Date = as.Date(data$ï..Date, "%Y-%m-%d")
+data$Date = as.Date(data$Ã¯..Date, "%Y-%m-%d")
 
 par(mfrow=c(2,2))
 
