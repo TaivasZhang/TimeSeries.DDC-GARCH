@@ -1,4 +1,4 @@
-# Volatility Spillovers in Major Oil Markets - An (Extend)DCC-MGARCH Approach
+# Volatility Spillovers in Major Oil Markets - A DCC-MGARCH Approach
 
 &copy; Skye Zhang 2020. All rights reserved.
 
