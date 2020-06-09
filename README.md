@@ -1,6 +1,6 @@
 # Volatility Spillovers in Major Oil Markets - A DCC-MGARCH Approach
 
-&copy; Skye Zhang 2020. All rights reserved.
+Copyright &copy; 2020 by Skye Zhang. All rights reserved.
 
 ## Introduction
 
